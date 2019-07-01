@@ -1,7 +1,7 @@
 {
     "BIDSVersion": "1.0.0",
     "Name": "Memory and decision making dataset",
-    "Description": "These data were published in Bakkour et al. eLife, 2019"
+    "Description": "These data were published in Bakkour et al. eLife, 2019",
     "Authors": [
         "Akram Bakkour",
         "Daphna Shohamy",
