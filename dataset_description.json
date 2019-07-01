@@ -2,9 +2,5 @@
     "BIDSVersion": "1.0.0",
     "Name": "MDMRT scan data",
     "Description": "These data were published in Bakkour et al. eLife, 2019",
-    "Authors": [
-        "Akram Bakkour",
-        "Daphna Shohamy",
-        "Michael N. Shadlen"
-    ]
+    "License": "This dataset is made publicly available under Creative Commons CC0 license."
 }
