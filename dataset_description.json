@@ -1,6 +1,5 @@
 {
     "BIDSVersion": "1.0.0",
     "Name": "MDMRT scan data",
-    "Description": "These data were published in Bakkour et al. eLife, 2019",
-    "License": "This dataset is made available under the CC0 License."
+    "Description": "These data were published in Bakkour et al. eLife, 2019"
 }
