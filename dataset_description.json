@@ -1,10 +1,10 @@
 {
     "BIDSVersion": "1.0.0",
-    "Name": "MDMRT scan data",
-    "Description": "These data were published in Bakkour et al. eLife, 2019",
+    "Name": "Memory and decision making dataset",
+    "Description": "These data were published in Bakkour et al. eLife, 2019"
     "Authors": [
         "Akram Bakkour",
         "Daphna Shohamy",
         "Michael N. Shadlen"
-    ]
+	]
 }
